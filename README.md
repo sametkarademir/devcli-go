@@ -767,7 +767,3 @@ make test
 # Lint code
 make lint
 ```
-
-## License
-
-[Add your license here]
